@@ -26,7 +26,7 @@ El informe fue construido en **Power BI Desktop** con un modelo de datos de 26 v
 | Archivo | Descripción |
 |---|---|
 | `Informe Online Vs Shopping.pbix` | Archivo Power BI Desktop con modelo completo y todas las medidas DAX |
-| `Informe Online Vs Shopping.pdf` | Exportación estática del informe (4 páginas) |
+| `Informe Online Vs Shopping.pdf` | Exportación estática del informe (3 páginas) |
 
 ---
 
