@@ -1,9 +1,8 @@
 # Portafolio-de-analitica
 # 📊 Análisis de Comportamiento de Compra: Online vs En Tienda
 
-![Dataset](https://www.kaggle.com/datasets/shree0910/online-vs-in-store-shopping-behaviour-dataset/data)
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Análisis exploratorio del comportamiento de compra de **11,789 consumidores**, comparando los canales Online, En Tienda e Híbrido. El objetivo es identificar diferencias en gasto, perfil digital y comportamiento psicográfico entre los distintos segmentos de consumidores.
 
@@ -11,7 +10,7 @@ El informe fue construido en **Power BI Desktop** con un modelo de datos de 26 v
 
 ---
 
-## 🗂️ Estructura del informe
+##  Estructura del informe
 
 | Página | Contenido |
 |---|---|
@@ -21,7 +20,7 @@ El informe fue construido en **Power BI Desktop** con un modelo de datos de 26 v
 
 ---
 
-## 📁 Archivos del repositorio
+##  Archivos del repositorio
 
 | Archivo | Descripción |
 |---|---|
@@ -31,7 +30,7 @@ El informe fue construido en **Power BI Desktop** con un modelo de datos de 26 v
 
 ---
 
-## 🔍 Hallazgos principales
+##  Hallazgos principales
 
 ### 1. El canal Tienda domina con el 86.9% de los consumidores
 Solo el **10% prefiere comprar Online** y el 3.1% es Híbrido. Sin embargo, la preferencia no se traduce directamente en mayor gasto — el diferencial es mínimo.
@@ -63,7 +62,7 @@ El consumidor promedio pasa **60.1 horas semanales en internet** y tiene **7.6 a
 
 ---
 
-## 📐 Medidas DAX destacadas
+##  Medidas DAX destacadas
 
 ```dax
 -- Diferencial de gasto entre canales
@@ -91,7 +90,7 @@ RETURN DIVIDE(_Online, _Total, 0)
 
 ## 📊 Vista previa del informe
 
-> Ver el archivo `dashboard.pdf` para una vista completa de las 3 páginas.
+> Ver el archivo `Informe Online Vs Shopping.pdf` para una vista completa de las 3 páginas.
 
 ---
 
@@ -101,4 +100,3 @@ RETURN DIVIDE(_Online, _Total, 0)
 Estudiante de Ingeniería de Sistemas — CUC Barranquilla
 Enfoque: Análisis de datos · Power BI · SQL · Excel
 
-[![LinkedIn](www.linkedin.com/in/estebanvillalo)
