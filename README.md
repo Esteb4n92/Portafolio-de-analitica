@@ -89,7 +89,7 @@ RETURN DIVIDE(_Online, _Total, 0)
 
 ##  Vista previa del informe
 
-> [Ver informe completo en PDF](./Informe Online Vs Shopping.pdf) para una vista completa de las 3 páginas.
+> [Ver informe completo en PDF](./Informe%20Online%20Vs%20Shopping.pdf) para una vista completa de las 3 páginas.
 
 ---
 
