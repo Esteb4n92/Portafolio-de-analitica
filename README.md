@@ -52,7 +52,7 @@ El consumidor promedio pasa **60.1 horas semanales en internet** y tiene **7.6 a
 
 ---
 
-## 🛠️ Herramientas y técnicas utilizadas
+##  Herramientas y técnicas utilizadas
 
 - **Power BI Desktop** — modelado, visualización y diseño del informe
 - **DAX** — 27 medidas organizadas en carpetas (KPIs Financiero, Segmentación, Comportamiento, Perfil)
@@ -88,7 +88,7 @@ RETURN DIVIDE(_Online, _Total, 0)
 
 ---
 
-## 📊 Vista previa del informe
+##  Vista previa del informe
 
 > Ver el archivo `Informe Online Vs Shopping.pdf` para una vista completa de las 3 páginas.
 
