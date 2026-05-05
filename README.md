@@ -1,6 +1,7 @@
 # Portafolio-de-analitica
 # 📊 Análisis de Comportamiento de Compra: Online vs En Tienda
 
+[Dataset original en Kaggle](https://www.kaggle.com/datasets/shree0910/online-vs-in-store-shopping-behaviour-dataset/data)
 
 ##  Descripción del proyecto
 
