@@ -24,9 +24,8 @@ El informe fue construido en **Power BI Desktop** con un modelo de datos de 26 v
 
 | Archivo | Descripción |
 |---|---|
-| `dashboard.pbix` | Archivo Power BI Desktop con modelo completo y todas las medidas DAX |
-| `dashboard.pdf` | Exportación estática del informe (4 páginas) |
-| `dataset/` | Dataset original descargado de Kaggle |
+| `Informe Online Vs Shopping.pbix` | Archivo Power BI Desktop con modelo completo y todas las medidas DAX |
+| `Informe Online Vs Shopping.pdf` | Exportación estática del informe (4 páginas) |
 
 ---
 
@@ -90,7 +89,7 @@ RETURN DIVIDE(_Online, _Total, 0)
 
 ##  Vista previa del informe
 
-> Ver el archivo `Informe Online Vs Shopping.pdf` para una vista completa de las 3 páginas.
+> [Ver informe completo en PDF](./Informe Online Vs Shopping.pdf) para una vista completa de las 3 páginas.
 
 ---
 
