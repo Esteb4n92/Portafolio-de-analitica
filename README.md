@@ -3,6 +3,13 @@
 
 [Dataset original en Kaggle](https://www.kaggle.com/datasets/shree0910/online-vs-in-store-shopping-behaviour-dataset/data)
 
+
+##  Vista previa del informe
+
+> [Ver informe completo en PDF](./Informe%20Online%20Vs%20Shopping.pdf) para una vista completa de las 3 páginas.
+
+---
+
 ##  Descripción del proyecto
 
 Análisis exploratorio del comportamiento de compra de **11,789 consumidores**, comparando los canales Online, En Tienda e Híbrido. El objetivo es identificar diferencias en gasto, perfil digital y comportamiento psicográfico entre los distintos segmentos de consumidores.
@@ -85,12 +92,6 @@ VAR _Online = CALCULATE(COUNTROWS('online vs store shopping datase'),
               'online vs store shopping datase'[Preferencia de Compra] = "Online")
 RETURN DIVIDE(_Online, _Total, 0)
 ```
-
----
-
-##  Vista previa del informe
-
-> [Ver informe completo en PDF](./Informe%20Online%20Vs%20Shopping.pdf) para una vista completa de las 3 páginas.
 
 ---
 
